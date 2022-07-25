@@ -9,7 +9,16 @@ export default function App() {
         <div>
           <Dictionary />
         </div>
-        <footer>Coded by Artemisa Avelar and is open source</footer>
+        <footer>
+          Coded by Artemisa Avelar and is{" "}
+          <a
+            href="https://github.com/ArteAvelar/dictionary-project"
+            target="_blank"
+            rel="noreferrer"
+          >
+            open source
+          </a>
+        </footer>
       </div>
     </div>
   );

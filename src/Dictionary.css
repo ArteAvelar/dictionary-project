@@ -1,0 +1,16 @@
+.Dictionary section {
+  background-color: white;
+  margin: 10px;
+  padding: 20px;
+  border: 1px solid white;
+  border-radius: 5px;
+  box-shadow: 10px 5px 5px gray;
+}
+.Dictionary form {
+  width: 100;
+  color: red;
+}
+
+.Dictionary {
+  padding: 30px;
+}

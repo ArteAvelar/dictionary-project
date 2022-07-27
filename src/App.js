@@ -7,7 +7,7 @@ export default function App() {
       <div className="container">
         <header className="App-header">Dictionary</header>
         <div>
-          <Dictionary />
+          <Dictionary keywordEntrance="beach" />
         </div>
         <footer>
           Coded by Artemisa Avelar and is{" "}

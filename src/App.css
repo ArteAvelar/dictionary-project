@@ -3,15 +3,19 @@
   font-size: 50px;
   margin-bottom: 10px;
   text-align: center;
+  color: #113f67;
 }
 
 .App footer {
   font-size: 10px;
   margin-top: 10px;
+
   padding-left: 50px;
+  text-align: center;
 }
 
 .App {
-  padding: 50px;
-  background: linear-gradient(-225deg, #7de2fc 0%, #b9b6e5 100%);
+  padding-top: 50px;
+  background: #e7eaf6;
+  padding-bottom: 30px;
 }

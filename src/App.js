@@ -10,7 +10,15 @@ export default function App() {
           <Dictionary keywordEntrance="beach" />
         </div>
         <footer>
-          Coded by Artemisa Avelar and is{" "}
+          Coded by{" "}
+          <a
+            href="https://magnificent-buttercream-4c8fea.netlify.app/index.html"
+            target="_blank"
+            rel="noreferrer"
+          >
+            Artemisa Avelar
+          </a>{" "}
+          and is{" "}
           <a
             href="https://github.com/ArteAvelar/dictionary-project"
             target="_blank"
